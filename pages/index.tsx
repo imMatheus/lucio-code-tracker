@@ -30,6 +30,14 @@ const dates = [
         date: '06 feb 2022',
         lines: '6333',
     },
+     {
+        date: '07 feb 2022',
+        lines: '6363',
+    },
+     {
+        date: '08 feb 2022',
+        lines: '6353',
+    },
 ]
 
 for (let i = 0; i < 50; i++) {
