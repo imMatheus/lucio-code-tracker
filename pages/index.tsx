@@ -32,7 +32,7 @@ const dates = [
     },
      {
         date: '07 feb 2022',
-        lines: '6363',
+        lines: '6333',
     },
      {
         date: '08 feb 2022',
